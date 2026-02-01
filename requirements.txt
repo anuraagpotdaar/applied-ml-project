@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+xgboost
+shap
+jupyter
+yellowbrick
+scipy
+kaggle
+streamlit
+joblib
